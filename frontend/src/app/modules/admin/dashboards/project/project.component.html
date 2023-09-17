@@ -1,0 +1,29 @@
+<div class="flex flex-col flex-auto min-w-0">
+
+
+    <!-- Main -->
+    <div class="flex-auto border-t -mt-px pt-4 sm:pt-6">
+        <div class="w-full max-w-screen-xl mx-auto">
+            <!-- Tabs -->
+            <mat-tab-group
+                class="sm:px-2"
+                mat-stretch-tabs="false"
+                [animationDuration]="'0'">
+
+                <!-- Home -->
+                <mat-tab label="Home">
+                    <iframe
+                        [src]="$iframeUrl | async | safe : 'resourceUrl'"
+                        frameborder="0"
+                        width="100%"
+                        height="2000"
+                        allowtransparency
+                    ></iframe>
+                </mat-tab>
+
+
+            </mat-tab-group>
+        </div>
+    </div>
+
+</div>

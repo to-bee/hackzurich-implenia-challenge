@@ -1,0 +1,2 @@
+COLLECTION_CASE_REVISION = "case_revisions"
+COLLECTION_CASE = "cases"

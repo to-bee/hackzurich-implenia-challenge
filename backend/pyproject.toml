@@ -1,0 +1,84 @@
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+name = "hack"
+version = "0.0.0"
+description = ""
+authors = ["Fonti und Tobi"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+openai = "^0.27.9"
+python-dateutil = "^2.8.2"
+pydantic = "^2.3.0"
+pre-commit = "^3.4.0"
+black = "^23.9.1"
+flake8 = "^6.1.0"
+pymongo = "^4.5.0"
+fastapi = "^0.103.1"
+uvicorn = "^0.23.2"
+pyjwt = "^2.8.0"
+python-dotenv = "^1.0.0"
+python-multipart = "^0.0.6"
+pandas = "^2.1.0"
+openpyxl = "^3.1.2"
+
+
+[tool.poetry.group.local.dependencies]
+
+
+[tool.black]
+line-length = 180
+target-version = ['py310']
+include = '\.pyi?$'
+exclude = '''
+/(
+    \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | _build
+  | buck-out
+  | build
+  | dist
+)/
+'''
+
+[tool.isort]
+profile = "black"
+line_length = 180
+multi_line_output = 3
+honor_noqa = true
+remove_redundant_aliases = true
+include_trailing_comma = true
+force_grid_wrap = 0
+use_parentheses = true
+ensure_newline_before_comments = true
+
+[tool.mypy]
+python_version = "3.11"
+disallow_untyped_defs = false
+disallow_any_generics = false
+disallow_any_expr = false
+disallow_any_decorated = false
+disallow_any_explicit = false
+disallow_subclassing_any = false
+ignore_missing_imports = true
+warn_no_return = false
+check_untyped_defs = false
+#warn_return_any = false
+#warn_unused_configs = true
+#no_implicit_optional = true
+#warn_redundant_casts = true
+#warn_unused_ignores = true
+
+[tool.pytest.ini_options]
+python_files = "tests.py *_tests.py test_*.py"
+addopts = "-s -ra -q -n auto  --disable-pytest-warnings --verbose"
+
+env_files = [
+    ".env-testing",
+]

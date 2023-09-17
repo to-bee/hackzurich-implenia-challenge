@@ -1,0 +1,34 @@
+Situation																						Legal case													Measures
+Division	Country	IC # 	IC Name / Name of Investment Center	PSP	Project Description	Project on RDA Yes / No	Type/Nature	Business Responsible	Legal Responsible	Finance Responsible	Case number	Claimant	Respondent of Claim	Counter Party's Relation to Implenia	Status of the Proceeding	Subject matter	Currency	"Value in dispute /
+Claim volume       Claim by Implenia (+) / aganist Implenia (-)"	Our share %	"Value in dispute /
+Claim volume based on our share"		"Real Case:
+Expected enforceable right to payment (+) / enforceable obligation to pay (-)"	Considered amount in our accounting	"Opportunities (+) /
+Risks (-)"	Accumulated legal costs (expensed)	Expected legal costs (not yet expensed)	Accumulated court costs (expensed)	Expected court costs (not yet expensed)	Date start of proceeding	Date end of proceeding	Date relevant for interest	Interest rate	Interests		Comments	Next Milestone	Date of next milestone / review
+Buildings AT	Austria	56454	Name 1	64183	Case 2112	 No 	 Legal case against Implenia 	Peter	Jack	Mathias	213	Company A	 Name 111 	 Client 	 First Instance - Exchange of briefs 	Text	 CHF 	 -200 	100%	 -200 		-98 	-98 	 -   	-29 	-10 	-4 	0 	08.02.19		17.08.18	8.6%	 -41 		"Text
+"	Text	Q3 2023
+Buildings AT	Austria	56454	Name 2	64183	Case 2113	 No 	 Legal case by Implenia 	 Max 	 Nick 	 Heinz 	214	Company B	 Name 112 	 Client 	 First Instance - Exchange of briefs 	Text	 CHF 	 2'681 	100%	 2'681 		811 	811 	 -   	-186 	-59 	-80 	0 	29.04.20		26.01.20	8.6%	 238 		"Text
+"	Text	Q3  2023
+Buildings CH	Switzerland	56454	Name 3	64183	Case 2114	 No 	 Expected legal case against Implenia 	 Heidi 	 Stella 	 Rene 	215	Company C	 Name 113 	 Client 	 First Instance - Exchange of briefs 	Text	 CHF 	 -2'000 	100%	 -2'000 		-300 	-300 	 -   	0 	0 	0 	0 	30.11.20		25.08.03	5.0%	 -298 		"Text
+"	Text	on hold
+Buildings CH	Switzerland	56454	Name 4	64183	Case 2115	 No 	 Legal case against Implenia 	 Frack 	 Luna 	 Simon 	216	Company D	 Name 114 	 Client 	 First Instance - Exchange of briefs 	Text	 CHF 	 -1'900 	100%	 -1'900 		-800 	-800 	 -   	-45 	-60 	0 	-15 	01.05.16		01.01.13	5.0%	 -420 		"Text
+"	Text	on hold
+Buildings DE	Germany	56454	Name 5	64183	Case 2116	 No 	 Legal case by Implenia 	 Hans 	 Meike 	 Marcel 	217	Company E	 Name 115 	 Client 	 First Instance - Court deliberation 	Text	 CHF 	 3'977 	100%	 3'977 		1'193 	1'193 	 -   	-29 	0 	0 	0 	01.06.10			0.0%	 -   		"Text
+"	Text	on hold
+Buildings DE	Germany	56454	Name 6	864687	Case 2117	 No 	 Legal case against Implenia 	 Werner 	 Kerstin 	 Christian 	218	Company F	 Name 116 	 Client 	 First Instance - Court deliberation 	Text	 CHF 	 -3'361 	100%	 -3'361 		-1'168 	-1'168 	 -   	-6 	-51 	0 	0 	22.08.16		22.08.16	9.0%	 -721 		"Text
+"	Text	on hold
+Buildings AT	Austria	56454	Name 1	64183	Case 2112	 No 	 Legal case against Implenia 	Peter	Jack	Mathias	213	Company A	 Name 111 	 Client 	 First Instance - Exchange of briefs 	Text	 CHF 	 -200 	100%	 -200 		-98 	-98 	 -   	-29 	-10 	-4 	0 	08.02.19		17.08.18	8.6%	 -41 		"Text
+"	Text	Q3 2023
+Buildings AT	Austria	56454	Name 2	64183	Case 2113	 No 	 Legal case by Implenia 	 Max 	 Nick 	 Heinz 	214	Company B	 Name 112 	 Client 	 First Instance - Exchange of briefs 	Text	 CHF 	 2'681 	100%	 2'681 		811 	811 	 -   	-186 	-59 	-80 	0 	29.04.20		26.01.20	8.6%	 238 		"Text
+"	Text	Q3  2023
+Buildings CH	Switzerland	56454	Name 3	64183	Case 2114	 No 	 Expected legal case against Implenia 	 Heidi 	 Stella 	 Rene 	215	Company C	 Name 113 	 Client 	 First Instance - Exchange of briefs 	Text	 CHF 	 -2'000 	100%	 -2'000 		-300 	-300 	 -   	0 	0 	0 	0 	30.11.20		25.08.03	5.0%	 -298 		"Text
+"	Text	on hold
+Buildings CH	Switzerland	56454	Name 4	64183	Case 2115	 No 	 Legal case against Implenia 	 Frack 	 Luna 	 Simon 	216	Company D	 Name 114 	 Client 	 First Instance - Exchange of briefs 	Text	 CHF 	 -1'900 	100%	 -1'900 		-800 	-800 	 -   	-45 	-60 	0 	-15 	01.05.16		01.01.13	5.0%	 -420 		"Text
+"	Text	on hold
+Buildings DE	Germany	56454	Name 5	64183	Case 2116	 No 	 Legal case by Implenia 	 Hans 	 Meike 	 Marcel 	217	Company E	 Name 115 	 Client 	 First Instance - Court deliberation 	Text	 CHF 	 3'977 	100%	 3'977 		1'193 	1'193 	 -   	-29 	0 	0 	0 	01.06.10			0.0%	 -   		"Text
+"	Text	on hold
+Buildings DE	Germany	56454	Name 6	864687	Case 2117	 No 	 Legal case against Implenia 	 Werner 	 Kerstin 	 Christian 	218	Company F	 Name 116 	 Client 	 First Instance - Court deliberation 	Text	 CHF 	 -3'361 	100%	 -3'361 		-1'168 	-1'168 	 -   	-6 	-51 	0 	0 	22.08.16		22.08.16	9.0%	 -721 		"Text
+"	Text	on hold
+Civil CH	Switzerland	8374351	Name 7	864687	Case 2118	 No 	 Legal case by Implenia 	 Alexander 	 Ludwig 	 Peter 	219	Company G	 Name 117 	 Client 	 First Instance - Exchange of briefs 	Text	 CHF 	 384 	50%	 192 		192 	192 	 -   	-51 	-20 	0 	0 	01.12.11		16.11.11	5.0%	 112 		"Text
+"	Text	Q3 2023
+Civil CH	Switzerland	8374351	Name 8	864687	Case 2119	 No 	 Expected legal case by Implenia 	 Luisa 	 Hannes 	 Max 	220	Company H	 Name 118 	 Client 	 First Instance - Exchange of briefs 	Text	 CHF 	 -2'593 	50%	 -1'297 		-500 	-500 	 -   	-51 	-20 	0 	0 	01.12.11		19.08.11	5.0%	 -297 		"Text
+"	Text	Q3 2023

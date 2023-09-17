@@ -1,0 +1,106 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DjangoUnresolvedStaticReferenceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="67" name="TypeScript" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="23">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="vue-table-lite" />
+            <item index="7" class="java.lang.String" itemvalue="confirmmodal" />
+            <item index="8" class="java.lang.String" itemvalue="bugfixicon" />
+            <item index="9" class="java.lang.String" itemvalue="changeaddressmodal" />
+            <item index="10" class="java.lang.String" itemvalue="selectorg" />
+            <item index="11" class="java.lang.String" itemvalue="addcategory" />
+            <item index="12" class="java.lang.String" itemvalue="orgsettingsdashboardentry" />
+            <item index="13" class="java.lang.String" itemvalue="adminicon" />
+            <item index="14" class="java.lang.String" itemvalue="icon" />
+            <item index="15" class="java.lang.String" itemvalue="iconbutton" />
+            <item index="16" class="java.lang.String" itemvalue="loadingspinner" />
+            <item index="17" class="java.lang.String" itemvalue="loadingdata" />
+            <item index="18" class="java.lang.String" itemvalue="iconhref" />
+            <item index="19" class="java.lang.String" itemvalue="alert" />
+            <item index="20" class="java.lang.String" itemvalue="infobox" />
+            <item index="21" class="java.lang.String" itemvalue="trainingabsences" />
+            <item index="22" class="java.lang.String" itemvalue="viewleads" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="NonAsciiCharacters" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyMissingTypeHintsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="39">
+            <item index="0" class="java.lang.String" itemvalue="pyicu" />
+            <item index="1" class="java.lang.String" itemvalue="google-auth" />
+            <item index="2" class="java.lang.String" itemvalue="tabulate" />
+            <item index="3" class="java.lang.String" itemvalue="cloudpickle" />
+            <item index="4" class="java.lang.String" itemvalue="partd" />
+            <item index="5" class="java.lang.String" itemvalue="datasets" />
+            <item index="6" class="java.lang.String" itemvalue="locket" />
+            <item index="7" class="java.lang.String" itemvalue="torchvision" />
+            <item index="8" class="java.lang.String" itemvalue="importlib-metadata" />
+            <item index="9" class="java.lang.String" itemvalue="markdown-it-py" />
+            <item index="10" class="java.lang.String" itemvalue="vaex-core" />
+            <item index="11" class="java.lang.String" itemvalue="python-easyconfig" />
+            <item index="12" class="java.lang.String" itemvalue="jsonsir" />
+            <item index="13" class="java.lang.String" itemvalue="seqeval" />
+            <item index="14" class="java.lang.String" itemvalue="zipp" />
+            <item index="15" class="java.lang.String" itemvalue="mdurl" />
+            <item index="16" class="java.lang.String" itemvalue="multiprocess" />
+            <item index="17" class="java.lang.String" itemvalue="accelerate" />
+            <item index="18" class="java.lang.String" itemvalue="dataquality" />
+            <item index="19" class="java.lang.String" itemvalue="xxhash" />
+            <item index="20" class="java.lang.String" itemvalue="pyarrow" />
+            <item index="21" class="java.lang.String" itemvalue="resource" />
+            <item index="22" class="java.lang.String" itemvalue="python-utils" />
+            <item index="23" class="java.lang.String" itemvalue="h5py" />
+            <item index="24" class="java.lang.String" itemvalue="progressbar2" />
+            <item index="25" class="java.lang.String" itemvalue="wrapt" />
+            <item index="26" class="java.lang.String" itemvalue="rich" />
+            <item index="27" class="java.lang.String" itemvalue="sentence-transformers" />
+            <item index="28" class="java.lang.String" itemvalue="types-requests" />
+            <item index="29" class="java.lang.String" itemvalue="aplus" />
+            <item index="30" class="java.lang.String" itemvalue="toolz" />
+            <item index="31" class="java.lang.String" itemvalue="blake3" />
+            <item index="32" class="java.lang.String" itemvalue="vaex-hdf5" />
+            <item index="33" class="java.lang.String" itemvalue="dask" />
+            <item index="34" class="java.lang.String" itemvalue="frozendict" />
+            <item index="35" class="java.lang.String" itemvalue="jsonform" />
+            <item index="36" class="java.lang.String" itemvalue="evaluate" />
+            <item index="37" class="java.lang.String" itemvalue="types-urllib3" />
+            <item index="38" class="java.lang.String" itemvalue="diskcache" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="type.__getitem__" />
+          <option value="notifications.member_letters.fastapi_views.Color" />
+          <option value="service_common.management.management.commands.runconsumers.Command._collect_all_consumers" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="Stylelint" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="TsLint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="TypeScriptExplicitMemberType" enabled="false" level="INFORMATION" enabled_by_default="false" />
+  </profile>
+</component>
